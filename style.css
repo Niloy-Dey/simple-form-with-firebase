@@ -83,6 +83,7 @@ body{
 
 }
 .Login_button{
+    cursor: pointer;
      font-size: 16px;
      padding: 10px;
      border:none;
@@ -91,9 +92,11 @@ body{
      width:200px;
      background-color:#7086ff;
      color:black;
+     cursor: pointer;
 }
 
 .signup_button{
+    cursor: pointer;
      font-size: 16px;
      padding: 10px;
      border:none;
